@@ -21,6 +21,6 @@ The data used in this project is sourced from **Statistics Canada**:
 - pandas
 - Excel (via xlsxwriter)
 
-## Preview 
-<img width="1903" height="1129" alt="summary" src="https://github.com/user-attachments/assets/90bb335b-050d-41b2-88f7-1d4312a7f6fb" />
+## Preview
 
+<img width="1903" height="1134" alt="Screenshot 2026-01-06 at 02 30 05" src="https://github.com/user-attachments/assets/cf9b7de0-4b79-4dbe-92dd-d6f12caa8e3e" />
