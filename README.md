@@ -15,6 +15,7 @@ Key features:
 The data used in this project is sourced from **Statistics Canada**:
 
 - [Table 11-10-0239-01: Average and median total income, by age group, sex and income source, annual](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110023901)
+- API: https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/11100239/en
 - License: Open Government License – Canada
 ## Technical Stack
 - Python 3.8+
